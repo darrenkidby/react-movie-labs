@@ -73,6 +73,14 @@ const sample = {
       iso_3166_1: "US",
       name: "United States of America",
     },
+    {
+      iso_3166_1: "UK",
+      name: "England",
+    },
+    {
+      iso_3166_1: "Eire",
+      name: "Republic of Ireland",
+    },
   ],
   release_date: "2017-12-13",
   revenue: 1332459537,
